@@ -1,0 +1,6 @@
+SSH_USER='example'
+SSH_HOST='example.com'
+SSH_KEY='/Users/example/.ssh/example'
+LOCAL_DIR='/Users/example/Sites/yoursite_local/'
+REMOTE_DIR='/home/example/webapps/yoursite_remote/'
+VERSION='0.1-beta'
